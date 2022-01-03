@@ -1,0 +1,23 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal&display=swap');
+</style>
+
+body{
+    color: purple;
+    text-align: left;
+    font-family: 'The Nautigal';
+}
+
+h1{
+font-style: italic;   
+}
+
+#para1 {
+    font-size: medium;
+    color: black;
+}
+
+.email{
+    color: beige;
+    outline: brown;
+}
